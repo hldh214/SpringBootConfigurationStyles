@@ -6,6 +6,7 @@
 ## Read-Only Files:
 - src/test/*
 
+
 ## Requirements:
 Spring boot allows to configure the application beans using Java or XML or Annotation. There is a project which has a few classes which are used for sending notifications. And you have to use all 3 types of configuration styles namely XML, Java and Annotation to define those beans so that those beans can be loaded into Spring Boot Application Context.
 
