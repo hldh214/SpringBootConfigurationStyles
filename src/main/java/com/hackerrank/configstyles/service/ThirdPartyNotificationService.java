@@ -1,7 +1,7 @@
 package com.hackerrank.configstyles.service;
 
 public class ThirdPartyNotificationService implements NotificationService {
-    private String serviceName;
+    private final String serviceName;
 
     public ThirdPartyNotificationService(String serviceName) {
         this.serviceName = serviceName;
